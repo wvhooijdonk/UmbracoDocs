@@ -6,6 +6,8 @@ versionFrom: 7.0.0
 
 :::note
 The databases on your Umbraco Cloud environments are specific to their environment. This means that no matter what you have configured in the `connectionstring` in your `web.config` or `appSettings.json`  file, we overwrite the connectionstring to use the SQL Azure Server we provide.
+
+Help!
 :::
 
 When working with Umbraco Cloud, the way you work with databases might differ from what you're used to. One important aspect of Umbraco Cloud is that you always work isolated to avoid interfering with colleagues or a running website. This includes the database as well.
