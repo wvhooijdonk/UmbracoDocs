@@ -120,7 +120,7 @@ The Profile consists of the following information:
 
 On the Umbraco Cloud portal, you can now find the link to the **Release Notes** in the **Profile** dropdown. Release notes are published every month and list the most relevant fixes and features added to the portal.
 
-## Environment error log
+## Environment error log 
 
 Each environment has an error log that appears only if you have any unread errors in that specific environment. You can view the errors by clicking on **View errors** in the environment menu.
 
